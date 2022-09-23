@@ -1,6 +1,6 @@
 # Team 2 Lasertag Project
 
-A python lasertag application built on the [django web framework](https://www.djangoproject.com/).
+A python lasertag application built on the [django web framework](https://www.djangoproject.com/). This is a copy of the original group project for personal accessibility.
 
 ## Installation
 
